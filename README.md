@@ -17,6 +17,8 @@
           Resolution – Application allows you to know if you can pay for the room or not.
           User need – If user cannot allow him to pay, but he wants to continue finding other hotels
           Resolution – Application asks you either to continue or not
+          user need - Tourists need to find out the hotel name and location
+          resolution - Appliction allows you to type phonenumber and know wanted info
        
           User story 
           As a tourist I can check whether the hotel is suitable for me and find all hotels with the help of bookmaking application. I               can choose hotel stars and the money which I can afford to pay for the hotel. 
